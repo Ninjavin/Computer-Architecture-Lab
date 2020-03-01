@@ -1,0 +1,7 @@
+v 3
+file . "Parallel-4-Bit-Subtractor-Test-Bench.vhdl" "20200301165450.000" "20200301222757.158":
+  entity parallel_4_bit_subtractor_test_bench at 1( 0) + 0 on 17;
+  architecture test_bench of parallel_4_bit_subtractor_test_bench at 8( 142) + 0 on 18;
+file . "Parallel-4-Bit-Subtractor.vhdl" "20200301165114.000" "20200301222746.234":
+  entity parallel_4_bit_subtractor at 1( 0) + 0 on 15;
+  architecture behavioral of parallel_4_bit_subtractor at 14( 316) + 0 on 16;

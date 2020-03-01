@@ -1,0 +1,7 @@
+v 3
+file . "Full_Subtractor_Test_Bench.vhdl" "20200301104940.000" "20200301162016.289":
+  entity full_subtractor_test_bench at 1( 0) + 0 on 17;
+  architecture test_bench of full_subtractor_test_bench at 8( 122) + 0 on 18;
+file . "Full_Subtractor.vhdl" "20200301104000.000" "20200301162003.248":
+  entity full_subtractor at 1( 0) + 0 on 15;
+  architecture behavioral of full_subtractor at 15( 268) + 0 on 16;

@@ -1,0 +1,32 @@
+$date
+  Sun Mar 01 22:10:25 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! gray[3:0] $end
+$var reg 4 " binary[3:0] $end
+$scope module binarytogray $end
+$var reg 4 # binary[3:0] $end
+$var reg 4 $ gray[3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b0010 !
+b0011 "
+b0011 #
+b0010 $
+#1000000
+b1010 !
+b1100 "
+b1100 #
+b1010 $
+#2000000
+b1101 !
+b1001 "
+b1001 #
+b1101 $
+#3000000

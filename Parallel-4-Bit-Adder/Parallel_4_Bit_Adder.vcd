@@ -1,0 +1,48 @@
+$date
+  Sun Mar 01 17:15:17 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " b[3:0] $end
+$var reg 4 # sum[3:0] $end
+$var reg 1 $ c $end
+$var reg 1 % carry $end
+$scope module parallel4bitadder $end
+$var reg 4 & a[3:0] $end
+$var reg 4 ' b[3:0] $end
+$var reg 1 ( c $end
+$var reg 4 ) sum[3:0] $end
+$var reg 1 * carry $end
+$upscope $end
+$enddefinitions $end
+#0
+b0011 !
+b0000 "
+b0011 #
+0$
+0%
+b0011 &
+b0000 '
+0(
+b0011 )
+0*
+#1000000
+b0001 !
+b0100 "
+b0101 #
+b0001 &
+b0100 '
+b0101 )
+#2000000
+b0010 !
+b0010 "
+b0100 #
+b0010 &
+b0010 '
+b0100 )
+#3000000

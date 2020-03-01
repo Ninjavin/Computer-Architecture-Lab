@@ -1,0 +1,7 @@
+v 3
+file . "Comparator_4_Bit_Test_Bench.vhdl" "20200301121534.000" "20200301174553.341":
+  entity comparator_4_bit_test_bench at 1( 0) + 0 on 13;
+  architecture test_bench of comparator_4_bit_test_bench at 8( 124) + 0 on 14;
+file . "Comparator_4_Bit.vhdl" "20200301121038.000" "20200301174546.095":
+  entity comparator_4_bit at 1( 0) + 0 on 11;
+  architecture behavioral of comparator_4_bit at 14( 285) + 0 on 12;

@@ -1,0 +1,44 @@
+$date
+  Sun Mar 01 16:57:40 2020
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! c $end
+$var reg 1 " carry $end
+$var reg 8 # a[7:0] $end
+$var reg 8 $ b[7:0] $end
+$var reg 8 % sum[7:0] $end
+$scope module adder8bit $end
+$var reg 8 & a[7:0] $end
+$var reg 8 ' b[7:0] $end
+$var reg 1 ( c $end
+$var reg 8 ) sum[7:0] $end
+$var reg 1 * carry $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+b00001111 #
+b00000000 $
+b00000000 %
+b00001111 &
+b00000000 '
+0(
+b00000000 )
+0*
+#1000000
+b00000001 #
+b00000100 $
+b00000001 &
+b00000100 '
+#2000000
+b00100000 #
+b00000010 $
+b00100000 &
+b00000010 '
+#3000000

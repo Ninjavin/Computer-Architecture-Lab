@@ -1,0 +1,7 @@
+v 3
+file . "Parallel_4_Bit_Adder_Test_Bench.vhdl" "20200301114422.000" "20200301171425.455":
+  entity parallel_4_bit_adder_test_bench at 1( 0) + 0 on 13;
+  architecture test_bench of parallel_4_bit_adder_test_bench at 8( 132) + 0 on 14;
+file . "Parallel_4_Bit_Adder.vhdl" "20200301113732.000" "20200301171305.236":
+  entity parallel_4_bit_adder at 1( 0) + 0 on 11;
+  architecture behavioral of parallel_4_bit_adder at 14( 304) + 0 on 12;
